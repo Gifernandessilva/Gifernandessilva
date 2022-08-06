@@ -1,7 +1,7 @@
 ### Eu sou a Gifernandessilva
 
-- 🔭Eu trabalho com Front-end 
-- 🌱 Estudo JavaScript Avançado e React
+- 🔭 Trabalho com Back-end e Front-end
+- 🌱 Estudo Java, MondoDB e React
 - 😄 Pronouns: ela/dela
 
 <div align="center">
