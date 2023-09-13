@@ -11,7 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br> 
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcd.foundation%2Fstay-connected%2Fnewsletter-archive%2Fcdf-newsletter-may2020%2Fattachment%2Fspinnaker-icon-color%2F&psig=AOvVaw0_EQNUDuPIYWUdCSOJRIyr&ust=1694716790239000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiQtZSeqIEDFQAAAAAdAAAAABAJ">
+      <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spinnaker/spinnaker.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  
 </div>
